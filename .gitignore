@@ -1,0 +1,18 @@
+# Downloaded open data and intermediate files (rebuilt by the scripts)
+data/raw/
+data/interim/
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,282 @@
+cluster_id,psu_id,stratum_id,pop_type,adm1_name,adm2_name,partner,round,reported_status
+idp_NG032002_C01,S347,idp_NG032002,idp,Plateau,Bassa,Partner P,2,accessible
+idp_NG032006_C01,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C02,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C03,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C04,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C05,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C06,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C07,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C08,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C09,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C10,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C11,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C12,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032006_C13,S352,idp_NG032006,idp,Plateau,Jos South,Partner P,2,accessible
+idp_NG032007_C01,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C02,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C03,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C04,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C05,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C06,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C07,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C08,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C09,S354,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C10,S355,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C11,S355,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C12,S355,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032007_C13,S355,idp_NG032007,idp,Plateau,Kanam,Partner P,2,accessible
+idp_NG032008_C01,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C02,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C03,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C04,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C05,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C06,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C07,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C08,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C09,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C10,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C11,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C12,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C13,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032008_C14,S356,idp_NG032008,idp,Plateau,Kanke,Partner P,2,accessible
+idp_NG032011_C01,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032011_C02,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032011_C03,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032011_C04,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032011_C05,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032011_C06,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032011_C07,S360,idp_NG032011,idp,Plateau,Mangu,Partner P,2,accessible
+idp_NG032013_C14,S363,idp_NG032013,idp,Plateau,Pankshin,Partner P,2,accessible
+idp_NG032013_C15,S363,idp_NG032013,idp,Plateau,Pankshin,Partner P,2,accessible
+idp_NG032016_C01,S366,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C02,S366,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C03,S366,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C04,S366,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C05,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C06,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C07,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C08,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C09,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C10,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C11,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C12,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032016_C13,S367,idp_NG032016,idp,Plateau,Shendam,Partner P,2,accessible
+idp_NG032017_C01,S368,idp_NG032017,idp,Plateau,Wase,Partner P,2,inaccessible
+idp_NG032017_C02,S368,idp_NG032017,idp,Plateau,Wase,Partner P,2,inaccessible
+idp_NG032017_C03,S368,idp_NG032017,idp,Plateau,Wase,Partner P,2,inaccessible
+idp_NG032017_C04,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C05,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C06,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C07,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C08,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C09,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C10,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C11,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C12,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C13,S369,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+idp_NG032017_C14,S370,idp_NG032017,idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032002_C02,NG032002_hex21840,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C03,NG032002_hex21932,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C05,NG032002_hex22124,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C06,NG032002_hex22129,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C07,NG032002_hex22222,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C08,NG032002_hex22224,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C09,NG032002_hex22317,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C12,NG032002_hex22418,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C13,NG032002_hex22510,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C14,NG032002_hex22514,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C15,NG032002_hex22610,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C16,NG032002_hex22799,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_C17,NG032002_hex22896,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032004_C02,NG032004_hex23180,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C03,NG032004_hex23181,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C05,NG032004_hex23276,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C06,NG032004_hex23371,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C07,NG032004_hex23374,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C08,NG032004_hex23468,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C10,NG032004_hex23658,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C11,NG032004_hex23661,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C12,NG032004_hex23662,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C13,NG032004_hex23759,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C14,NG032004_hex23853,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C15,NG032004_hex24140,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C16,NG032004_hex24236,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_C17,NG032004_hex24332,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032005_C01,NG032005_hex22413,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,inaccessible
+non_idp_NG032005_C02,NG032005_hex22509,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C03,NG032005_hex22605,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C04,NG032005_hex22606,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C10,NG032005_hex22702,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C12,NG032005_hex22798,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C13,NG032005_hex22798,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C14,NG032005_hex22893,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C15,NG032005_hex22893,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_C16,NG032005_hex22893,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032006_C01,NG032006_hex22508,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,inaccessible
+non_idp_NG032006_C02,NG032006_hex22508,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,inaccessible
+non_idp_NG032006_C03,NG032006_hex22605,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_C10,NG032006_hex22796,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,inaccessible
+non_idp_NG032006_C11,NG032006_hex22796,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,inaccessible
+non_idp_NG032006_C12,NG032006_hex22797,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_C13,NG032006_hex22797,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_C14,NG032006_hex22797,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_C15,NG032006_hex22892,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_C16,NG032006_hex22892,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_C17,NG032006_hex22988,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032007_C02,NG032007_hex26633,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C03,NG032007_hex26822,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C04,NG032007_hex26921,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C05,NG032007_hex27108,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C07,NG032007_hex27211,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C08,NG032007_hex27302,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C09,NG032007_hex27302,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C11,NG032007_hex27401,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C12,NG032007_hex27590,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C13,NG032007_hex27686,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C14,NG032007_hex27784,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C15,NG032007_hex27976,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C16,NG032007_hex28360,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_C17,NG032007_hex28935,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032008_C01,NG032008_hex25383,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C02,NG032008_hex25478,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C03,NG032008_hex25480,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C07,NG032008_hex25670,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C08,NG032008_hex25671,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C09,NG032008_hex25671,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C10,NG032008_hex25766,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C13,NG032008_hex26055,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C14,NG032008_hex26150,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_C17,NG032008_hex26438,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032010_C01,NG032010_hex26045,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C02,NG032010_hex26141,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,inaccessible
+non_idp_NG032010_C03,NG032010_hex26235,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C05,NG032010_hex26332,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C06,NG032010_hex26430,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C08,NG032010_hex26622,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C09,NG032010_hex26622,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C10,NG032010_hex26622,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C11,NG032010_hex26717,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C12,NG032010_hex26718,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C14,NG032010_hex26910,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_C16,NG032010_hex27197,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,inaccessible
+non_idp_NG032010_C17,NG032010_hex27389,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,inaccessible
+non_idp_NG032011_C01,NG032011_hex23750,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,inaccessible
+non_idp_NG032011_C04,NG032011_hex23850,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,inaccessible
+non_idp_NG032011_C05,NG032011_hex23944,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C06,NG032011_hex23946,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C08,NG032011_hex24041,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C09,NG032011_hex24135,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C10,NG032011_hex24137,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C11,NG032011_hex24230,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,inaccessible
+non_idp_NG032011_C12,NG032011_hex24233,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C13,NG032011_hex24327,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C15,NG032011_hex24422,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_C17,NG032011_hex24521,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032013_C01,NG032013_hex24328,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C02,NG032013_hex24520,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C03,NG032013_hex24615,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C04,NG032013_hex24710,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C08,NG032013_hex24902,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C09,NG032013_hex24902,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C10,NG032013_hex24902,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C13,NG032013_hex24999,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C14,NG032013_hex25094,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,inaccessible
+non_idp_NG032013_C15,NG032013_hex25094,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,inaccessible
+non_idp_NG032013_C16,NG032013_hex25189,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_C17,NG032013_hex25286,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032014_C01,NG032014_hex23260,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C02,NG032014_hex23452,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C04,NG032014_hex23645,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C05,NG032014_hex23739,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,inaccessible
+non_idp_NG032014_C06,NG032014_hex23835,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C08,NG032014_hex24029,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C09,NG032014_hex24125,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,inaccessible
+non_idp_NG032014_C10,NG032014_hex24221,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C11,NG032014_hex24318,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C12,NG032014_hex24413,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,inaccessible
+non_idp_NG032014_C13,NG032014_hex24509,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C14,NG032014_hex24510,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C15,NG032014_hex24511,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_C16,NG032014_hex24605,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032016_C01,NG032016_hex24703,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C02,NG032016_hex24798,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C04,NG032016_hex24986,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C05,NG032016_hex24989,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,inaccessible
+non_idp_NG032016_C06,NG032016_hex25086,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C07,NG032016_hex25181,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C08,NG032016_hex25370,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C09,NG032016_hex25469,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C10,NG032016_hex25563,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C12,NG032016_hex25757,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,inaccessible
+non_idp_NG032016_C15,NG032016_hex25949,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,inaccessible
+non_idp_NG032016_C16,NG032016_hex26044,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_C17,NG032016_hex26329,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032017_C01,NG032017_hex27197,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C02,NG032017_hex27203,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C03,NG032017_hex27204,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C04,NG032017_hex27298,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C06,NG032017_hex27486,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C07,NG032017_hex27492,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C08,NG032017_hex27589,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,inaccessible
+non_idp_NG032017_C10,NG032017_hex27878,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C11,NG032017_hex28069,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C12,NG032017_hex28262,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C13,NG032017_hex28545,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C15,NG032017_hex28932,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C16,NG032017_hex29601,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_C17,NG032017_hex29893,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032002_R1_01,NG032002_hex21836,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_R1_02,NG032002_hex22125,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_R1_03,NG032002_hex22415,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032002_R1_04,NG032002_hex22704,non_idp_NG032002,non_idp,Plateau,Bassa,Partner P,2,accessible
+non_idp_NG032004_R1_01,NG032004_hex23084,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_R1_02,NG032004_hex23565,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032004_R1_03,NG032004_hex23854,non_idp_NG032004,non_idp,Plateau,Jos East,Partner P,2,accessible
+non_idp_NG032005_R1_01,NG032005_hex22892,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_R1_02,NG032005_hex22894,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_R1_03,NG032005_hex22991,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_R1_04,NG032005_hex23085,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032005_R1_05,NG032005_hex23086,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,inaccessible
+non_idp_NG032005_R1_06,NG032005_hex23086,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,inaccessible
+non_idp_NG032005_R1_07,NG032005_hex23181,non_idp_NG032005,non_idp,Plateau,Jos North,Partner P,2,accessible
+non_idp_NG032006_R1_01,NG032006_hex22316,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_R1_02,NG032006_hex22413,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_R1_03,NG032006_hex22413,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_R1_04,NG032006_hex22413,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_R1_05,NG032006_hex23084,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032006_R1_06,NG032006_hex23084,non_idp_NG032006,non_idp,Plateau,Jos South,Partner P,2,accessible
+non_idp_NG032007_R1_01,NG032007_hex26726,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032007_R1_02,NG032007_hex27301,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,inaccessible
+non_idp_NG032007_R1_03,NG032007_hex27979,non_idp_NG032007,non_idp,Plateau,Kanam,Partner P,2,accessible
+non_idp_NG032008_R1_01,NG032008_hex25191,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_R1_02,NG032008_hex25479,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_R1_03,NG032008_hex25863,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_R1_04,NG032008_hex25958,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_R1_05,NG032008_hex26054,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_R1_06,NG032008_hex26247,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032008_R1_07,NG032008_hex26439,non_idp_NG032008,non_idp,Plateau,Kanke,Partner P,2,accessible
+non_idp_NG032010_R1_01,NG032010_hex26139,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_R1_02,NG032010_hex26331,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_R1_03,NG032010_hex26715,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,accessible
+non_idp_NG032010_R1_04,NG032010_hex27006,non_idp_NG032010,non_idp,Plateau,Langtang South,Partner P,2,inaccessible
+non_idp_NG032011_R1_01,NG032011_hex23846,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_R1_02,NG032011_hex24038,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_R1_03,NG032011_hex24136,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_R1_04,NG032011_hex24326,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032011_R1_05,NG032011_hex24519,non_idp_NG032011,non_idp,Plateau,Mangu,Partner P,2,accessible
+non_idp_NG032013_R1_01,NG032013_hex24521,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_R1_02,NG032013_hex24711,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_R1_03,NG032013_hex24903,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,inaccessible
+non_idp_NG032013_R1_04,NG032013_hex25095,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032013_R1_05,NG032013_hex25191,non_idp_NG032013,non_idp,Plateau,Pankshin,Partner P,2,accessible
+non_idp_NG032014_R1_01,NG032014_hex23357,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_R1_02,NG032014_hex23931,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032014_R1_03,NG032014_hex24412,non_idp_NG032014,non_idp,Plateau,Qua'an Pan,Partner P,2,accessible
+non_idp_NG032016_R1_01,NG032016_hex24893,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_R1_02,NG032016_hex25276,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_R1_03,NG032016_hex25754,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032016_R1_04,NG032016_hex26138,non_idp_NG032016,non_idp,Plateau,Shendam,Partner P,2,accessible
+non_idp_NG032017_R1_01,NG032017_hex27484,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_R1_02,NG032017_hex28160,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible
+non_idp_NG032017_R1_03,NG032017_hex29507,non_idp_NG032017,non_idp,Plateau,Wase,Partner P,2,accessible

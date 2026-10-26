@@ -1,0 +1,175 @@
+cluster_id,psu_id,stratum_id,pop_type,adm1_name,adm2_name,partner,round,reported_status
+idp_NG019001_C01,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C02,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C03,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C04,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C05,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C06,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C07,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C08,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C09,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C10,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C11,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C12,S251,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019001_C13,S252,idp_NG019001,idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+idp_NG019003_C01,S255,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C02,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C03,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C04,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C05,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C06,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C07,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C08,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C09,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C10,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C11,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C12,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C13,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C14,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019003_C15,S256,idp_NG019003,idp,Kaduna,Giwa,Partner G,2,accessible
+idp_NG019004_C01,S257,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C02,S257,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C03,S257,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C04,S257,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C05,S257,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C06,S257,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C08,S259,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C09,S259,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C10,S259,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C11,S259,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C12,S259,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019004_C13,S259,idp_NG019004,idp,Kaduna,Igabi,Partner G,2,accessible
+idp_NG019010_C11,S263,idp_NG019010,idp,Kaduna,Kaduna South,Partner G,2,accessible
+idp_NG019010_C12,S263,idp_NG019010,idp,Kaduna,Kaduna South,Partner G,2,accessible
+idp_NG019011_C01,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C02,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C03,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C04,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C05,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C06,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C07,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C08,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C09,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C10,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C11,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C12,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+idp_NG019011_C13,S264,idp_NG019011,idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019001_C01,NG019001_hex12534,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C02,NG019001_hex12823,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C03,NG019001_hex12823,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C05,NG019001_hex13015,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C07,NG019001_hex13400,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C09,NG019001_hex14271,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C10,NG019001_hex14558,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C11,NG019001_hex14746,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C12,NG019001_hex14843,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,inaccessible
+non_idp_NG019001_C13,NG019001_hex14941,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C14,NG019001_hex15037,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C15,NG019001_hex15227,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C16,NG019001_hex15325,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_C17,NG019001_hex15517,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019002_C04,NG019002_hex16469,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,inaccessible
+non_idp_NG019002_C08,NG019002_hex16756,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C09,NG019002_hex16756,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C10,NG019002_hex16756,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C11,NG019002_hex16852,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C12,NG019002_hex16852,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C13,NG019002_hex16853,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C14,NG019002_hex16948,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_C17,NG019002_hex17524,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019003_C01,NG019003_hex15707,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C02,NG019003_hex15806,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C03,NG019003_hex15995,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C04,NG019003_hex16094,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C06,NG019003_hex16383,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C07,NG019003_hex16573,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,inaccessible
+non_idp_NG019003_C08,NG019003_hex16670,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,inaccessible
+non_idp_NG019003_C09,NG019003_hex16765,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C10,NG019003_hex16766,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C11,NG019003_hex16862,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C12,NG019003_hex16958,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C13,NG019003_hex17055,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C14,NG019003_hex17151,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C15,NG019003_hex17246,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C16,NG019003_hex17340,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019003_C17,NG019003_hex17532,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019004_C02,NG019004_hex16373,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C03,NG019004_hex16373,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C04,NG019004_hex16469,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C05,NG019004_hex16469,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C07,NG019004_hex16565,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,inaccessible
+non_idp_NG019004_C10,NG019004_hex16855,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C11,NG019004_hex16950,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C12,NG019004_hex17046,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C13,NG019004_hex17146,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C14,NG019004_hex17337,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C15,NG019004_hex17625,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_C16,NG019004_hex17818,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019009_C01,NG019009_hex16661,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C02,NG019009_hex16661,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C03,NG019009_hex16661,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C04,NG019009_hex16661,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C05,NG019009_hex16661,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C06,NG019009_hex16662,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C07,NG019009_hex16662,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C08,NG019009_hex16662,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C09,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C10,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C11,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C12,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C13,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C14,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C15,NG019009_hex16757,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C16,NG019009_hex16853,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019009_C17,NG019009_hex16854,non_idp_NG019009,non_idp,Kaduna,Kaduna North,Partner G,2,accessible
+non_idp_NG019010_C01,NG019010_hex16468,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,inaccessible
+non_idp_NG019010_C02,NG019010_hex16469,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C03,NG019010_hex16469,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C04,NG019010_hex16469,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C05,NG019010_hex16469,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C06,NG019010_hex16469,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C07,NG019010_hex16564,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C08,NG019010_hex16564,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C09,NG019010_hex16564,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C10,NG019010_hex16564,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_C11,NG019010_hex16564,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019011_C01,NG019011_hex15878,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C02,NG019011_hex16071,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C03,NG019011_hex16167,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C04,NG019011_hex16263,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C05,NG019011_hex16358,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C06,NG019011_hex16360,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C07,NG019011_hex16457,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C08,NG019011_hex16648,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C09,NG019011_hex16649,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C10,NG019011_hex16649,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C11,NG019011_hex16649,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C13,NG019011_hex17127,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_C14,NG019011_hex17511,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,inaccessible
+non_idp_NG019001_R1_01,NG019001_hex13018,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_R1_02,NG019001_hex14459,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019001_R1_03,NG019001_hex15039,non_idp_NG019001,non_idp,Kaduna,Birnin-Gwari,Partner G,2,accessible
+non_idp_NG019002_R1_01,NG019002_hex16277,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_R1_02,NG019002_hex16564,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_R1_03,NG019002_hex16564,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_R1_04,NG019002_hex16755,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,inaccessible
+non_idp_NG019002_R1_05,NG019002_hex16947,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_R1_06,NG019002_hex17140,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_R1_07,NG019002_hex17331,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019002_R1_08,NG019002_hex17620,non_idp_NG019002,non_idp,Kaduna,Chikun,Partner G,2,accessible
+non_idp_NG019003_R1_01,NG019003_hex16190,non_idp_NG019003,non_idp,Kaduna,Giwa,Partner G,2,accessible
+non_idp_NG019004_R1_01,NG019004_hex16184,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,inaccessible
+non_idp_NG019004_R1_02,NG019004_hex16859,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_R1_03,NG019004_hex17049,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_R1_04,NG019004_hex17526,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,accessible
+non_idp_NG019004_R1_05,NG019004_hex17911,non_idp_NG019004,non_idp,Kaduna,Igabi,Partner G,2,inaccessible
+non_idp_NG019010_R1_01,NG019010_hex16662,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_R1_02,NG019010_hex16756,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_R1_03,NG019010_hex16756,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_R1_04,NG019010_hex16756,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_R1_05,NG019010_hex16757,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019010_R1_06,NG019010_hex16757,non_idp_NG019010,non_idp,Kaduna,Kaduna South,Partner G,2,accessible
+non_idp_NG019011_R1_01,NG019011_hex15974,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_R1_02,NG019011_hex16359,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_R1_03,NG019011_hex16552,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible
+non_idp_NG019011_R1_04,NG019011_hex17224,non_idp_NG019011,non_idp,Kaduna,Kagarko,Partner G,2,accessible

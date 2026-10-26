@@ -1,0 +1,350 @@
+cluster_id,psu_id,stratum_id,pop_type,adm1_name,adm2_name,partner,round,reported_status
+idp_NG037001_C01,S456,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C02,S456,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C03,S456,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C04,S456,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C05,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C06,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C07,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C08,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C09,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C10,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C11,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037001_C12,S457,idp_NG037001,idp,Zamfara,Anka,Partner T,2,accessible
+idp_NG037002_C01,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C02,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C03,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C04,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C05,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C06,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C07,S458,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C08,S459,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C09,S459,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C10,S459,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C11,S459,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037002_C12,S459,idp_NG037002,idp,Zamfara,Bakura,Partner T,2,accessible
+idp_NG037003_C01,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037003_C02,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037003_C03,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037003_C04,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037003_C05,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037003_C06,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037003_C07,S460,idp_NG037003,idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+idp_NG037004_C01,S461,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C02,S461,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C03,S461,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C04,S461,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C05,S461,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C06,S461,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C07,S462,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C08,S462,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C09,S462,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C10,S462,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037004_C11,S463,idp_NG037004,idp,Zamfara,Bukkuyum,Partner T,2,accessible
+idp_NG037005_C01,S466,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037007_C01,S471,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C02,S471,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C03,S471,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C04,S472,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C06,S474,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C07,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C08,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C09,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C10,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C11,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C12,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C13,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037007_C14,S475,idp_NG037007,idp,Zamfara,Gusau,Partner T,2,accessible
+idp_NG037008_C01,S476,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C02,S476,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C03,S476,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C04,S476,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C05,S476,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C06,S476,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C07,S478,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C08,S478,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C09,S479,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C10,S479,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C11,S479,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C12,S479,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C13,S479,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037008_C14,S480,idp_NG037008,idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+idp_NG037010_C01,S481,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C02,S481,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C03,S481,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C04,S481,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C05,S481,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C06,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C07,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C08,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C09,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C10,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C11,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C12,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C13,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037010_C14,S482,idp_NG037010,idp,Zamfara,Maru,Partner T,2,accessible
+idp_NG037011_C01,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C02,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C03,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C04,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C05,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C06,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C07,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037011_C08,S483,idp_NG037011,idp,Zamfara,Shinkafi,Partner T,2,accessible
+idp_NG037012_C01,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C02,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C03,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C04,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C05,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C06,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C07,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C08,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C09,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C10,S484,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C11,S485,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C12,S485,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C13,S485,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,accessible
+idp_NG037012_C14,S486,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,inaccessible
+idp_NG037012_C15,S486,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,inaccessible
+idp_NG037012_C16,S486,idp_NG037012,idp,Zamfara,Talata Mafara,Partner T,2,inaccessible
+idp_NG037014_C01,S489,idp_NG037014,idp,Zamfara,Zurmi,Partner T,2,accessible
+idp_NG037014_C02,S489,idp_NG037014,idp,Zamfara,Zurmi,Partner T,2,accessible
+idp_NG037014_C03,S489,idp_NG037014,idp,Zamfara,Zurmi,Partner T,2,accessible
+idp_NG037014_C04,S489,idp_NG037014,idp,Zamfara,Zurmi,Partner T,2,accessible
+idp_NG037014_C05,S489,idp_NG037014,idp,Zamfara,Zurmi,Partner T,2,accessible
+idp_NG037014_C06,S489,idp_NG037014,idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037001_C01,NG037001_hex09577,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C02,NG037001_hex09675,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C03,NG037001_hex09771,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C04,NG037001_hex09962,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C05,NG037001_hex10057,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C06,NG037001_hex10154,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C07,NG037001_hex10251,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C08,NG037001_hex10439,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C09,NG037001_hex10441,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C10,NG037001_hex10441,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C11,NG037001_hex10441,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C12,NG037001_hex10631,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C13,NG037001_hex10820,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C15,NG037001_hex11015,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C16,NG037001_hex11113,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037001_C17,NG037001_hex11305,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037002_C01,NG037002_hex09772,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C02,NG037002_hex09874,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C03,NG037002_hex10061,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C05,NG037002_hex10161,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C06,NG037002_hex10256,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C07,NG037002_hex10257,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C08,NG037002_hex10257,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C09,NG037002_hex10258,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C12,NG037002_hex10546,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C13,NG037002_hex10640,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C14,NG037002_hex10831,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C15,NG037002_hex10833,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C16,NG037002_hex10929,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_C17,NG037002_hex11121,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037003_C01,NG037003_hex13615,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C02,NG037003_hex13709,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C03,NG037003_hex13805,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C04,NG037003_hex13807,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C05,NG037003_hex13997,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C06,NG037003_hex13999,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C07,NG037003_hex14094,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C08,NG037003_hex14190,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C09,NG037003_hex14191,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C10,NG037003_hex14192,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C11,NG037003_hex14192,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C12,NG037003_hex14285,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C13,NG037003_hex14287,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C14,NG037003_hex14383,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C15,NG037003_hex14479,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037003_C16,NG037003_hex14767,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,inaccessible
+non_idp_NG037003_C17,NG037003_hex15053,non_idp_NG037003,non_idp,Zamfara,Birnin Magaji,Partner T,2,accessible
+non_idp_NG037004_C01,NG037004_hex07847,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C02,NG037004_hex08039,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C03,NG037004_hex08232,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C04,NG037004_hex08421,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,inaccessible
+non_idp_NG037004_C06,NG037004_hex08522,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C07,NG037004_hex08708,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C09,NG037004_hex08903,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C10,NG037004_hex09002,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C11,NG037004_hex09191,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C12,NG037004_hex09291,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C13,NG037004_hex09476,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C14,NG037004_hex09574,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C15,NG037004_hex09670,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C16,NG037004_hex09764,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_C17,NG037004_hex09863,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037005_C01,NG037005_hex12554,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C02,NG037005_hex12652,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C03,NG037005_hex12747,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C04,NG037005_hex12844,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C05,NG037005_hex12939,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C06,NG037005_hex13032,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C07,NG037005_hex13037,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C08,NG037005_hex13131,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C09,NG037005_hex13133,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C10,NG037005_hex13323,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C11,NG037005_hex13611,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C12,NG037005_hex13707,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C13,NG037005_hex13899,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C14,NG037005_hex13995,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037005_C15,NG037005_hex14186,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,inaccessible
+non_idp_NG037005_C17,NG037005_hex14473,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037006_C01,NG037006_hex06505,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C02,NG037006_hex06693,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C04,NG037006_hex06982,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C10,NG037006_hex07176,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C11,NG037006_hex07275,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C12,NG037006_hex07466,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C13,NG037006_hex07563,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C14,NG037006_hex07752,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C15,NG037006_hex07754,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C16,NG037006_hex07848,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_C17,NG037006_hex07946,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037007_C01,NG037007_hex13322,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C02,NG037007_hex13416,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C03,NG037007_hex13418,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C04,NG037007_hex13512,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C05,NG037007_hex13514,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C06,NG037007_hex13514,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C07,NG037007_hex13514,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C08,NG037007_hex13514,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C09,NG037007_hex13610,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C10,NG037007_hex13610,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C11,NG037007_hex13610,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C12,NG037007_hex13610,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C13,NG037007_hex13706,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C14,NG037007_hex13802,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C15,NG037007_hex13802,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C16,NG037007_hex14570,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037007_C17,NG037007_hex15049,non_idp_NG037007,non_idp,Zamfara,Gusau,Partner T,2,accessible
+non_idp_NG037008_C01,NG037008_hex12847,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C02,NG037008_hex12943,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C03,NG037008_hex13039,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C04,NG037008_hex13134,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C05,NG037008_hex13135,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C06,NG037008_hex13135,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C07,NG037008_hex13135,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C09,NG037008_hex13232,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C10,NG037008_hex13325,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C12,NG037008_hex13327,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C13,NG037008_hex13422,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C14,NG037008_hex13424,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C15,NG037008_hex13519,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C16,NG037008_hex13711,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_C17,NG037008_hex14092,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037009_C02,NG037009_hex11313,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C03,NG037009_hex11407,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C04,NG037009_hex11409,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C05,NG037009_hex11503,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C06,NG037009_hex11503,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C07,NG037009_hex11505,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C08,NG037009_hex11696,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C09,NG037009_hex11792,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C10,NG037009_hex11982,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C11,NG037009_hex11985,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C12,NG037009_hex12082,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C13,NG037009_hex12274,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C14,NG037009_hex12467,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C15,NG037009_hex12562,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C16,NG037009_hex12752,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037009_C17,NG037009_hex12945,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037010_C03,NG037010_hex11779,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C04,NG037010_hex11874,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C05,NG037010_hex11970,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C06,NG037010_hex12063,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C07,NG037010_hex12075,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C08,NG037010_hex12167,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C09,NG037010_hex12265,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C11,NG037010_hex12364,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C12,NG037010_hex12455,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C13,NG037010_hex12541,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C14,NG037010_hex12556,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C16,NG037010_hex12831,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_C17,NG037010_hex13025,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037011_C01,NG037011_hex12085,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C03,NG037011_hex12565,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,inaccessible
+non_idp_NG037011_C04,NG037011_hex12565,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,inaccessible
+non_idp_NG037011_C05,NG037011_hex12662,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C06,NG037011_hex12756,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C07,NG037011_hex12853,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C08,NG037011_hex12854,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C09,NG037011_hex12854,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C10,NG037011_hex12854,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C11,NG037011_hex12854,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C12,NG037011_hex12949,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C13,NG037011_hex12949,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C14,NG037011_hex13044,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C15,NG037011_hex13141,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C16,NG037011_hex13332,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037011_C17,NG037011_hex13523,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037012_C01,NG037012_hex10348,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C02,NG037012_hex10732,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C03,NG037012_hex10830,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C04,NG037012_hex10923,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C05,NG037012_hex10927,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C06,NG037012_hex11023,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C07,NG037012_hex11023,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C08,NG037012_hex11023,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C09,NG037012_hex11023,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C10,NG037012_hex11023,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C11,NG037012_hex11114,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C12,NG037012_hex11118,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C13,NG037012_hex11210,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C14,NG037012_hex11214,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C15,NG037012_hex11308,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037012_C16,NG037012_hex11312,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037014_C02,NG037014_hex12658,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C03,NG037014_hex12754,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C04,NG037014_hex12850,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C05,NG037014_hex12852,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,inaccessible
+non_idp_NG037014_C06,NG037014_hex13137,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C07,NG037014_hex13235,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C08,NG037014_hex13427,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C09,NG037014_hex13618,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C10,NG037014_hex13714,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C11,NG037014_hex13811,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C12,NG037014_hex13907,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C13,NG037014_hex14002,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C14,NG037014_hex14002,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C15,NG037014_hex14097,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C16,NG037014_hex14288,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+non_idp_NG037014_C17,NG037014_hex14770,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible
+idp_NG037005_R1_01,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_02,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_03,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_04,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_05,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_06,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_07,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_08,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_09,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_10,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_11,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_12,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_13,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+idp_NG037005_R1_14,S465,idp_NG037005,idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037001_R1_01,NG037001_hex10247,non_idp_NG037001,non_idp,Zamfara,Anka,Partner T,2,accessible
+non_idp_NG037002_R1_01,NG037002_hex09774,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_R1_02,NG037002_hex10162,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037002_R1_03,NG037002_hex10641,non_idp_NG037002,non_idp,Zamfara,Bakura,Partner T,2,accessible
+non_idp_NG037004_R1_01,NG037004_hex08516,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037004_R1_02,NG037004_hex09479,non_idp_NG037004,non_idp,Zamfara,Bukkuyum,Partner T,2,accessible
+non_idp_NG037005_R1_01,NG037005_hex12360,non_idp_NG037005,non_idp,Zamfara,Bungudu,Partner T,2,accessible
+non_idp_NG037006_R1_01,NG037006_hex06601,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,inaccessible
+non_idp_NG037006_R1_02,NG037006_hex06890,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_R1_03,NG037006_hex07178,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,inaccessible
+non_idp_NG037006_R1_04,NG037006_hex07465,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_R1_05,NG037006_hex07659,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037006_R1_06,NG037006_hex07944,non_idp_NG037006,non_idp,Zamfara,Gummi,Partner T,2,accessible
+non_idp_NG037008_R1_01,NG037008_hex12944,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037008_R1_02,NG037008_hex13517,non_idp_NG037008,non_idp,Zamfara,Kaura Namoda,Partner T,2,accessible
+non_idp_NG037009_R1_01,NG037009_hex10932,non_idp_NG037009,non_idp,Zamfara,Maradun,Partner T,2,accessible
+non_idp_NG037010_R1_01,NG037010_hex11876,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,inaccessible
+non_idp_NG037010_R1_02,NG037010_hex12172,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_R1_03,NG037010_hex12460,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037010_R1_04,NG037010_hex13121,non_idp_NG037010,non_idp,Zamfara,Maru,Partner T,2,accessible
+non_idp_NG037011_R1_01,NG037011_hex12757,non_idp_NG037011,non_idp,Zamfara,Shinkafi,Partner T,2,accessible
+non_idp_NG037012_R1_01,NG037012_hex11405,non_idp_NG037012,non_idp,Zamfara,Talata Mafara,Partner T,2,accessible
+non_idp_NG037014_R1_01,NG037014_hex13713,non_idp_NG037014,non_idp,Zamfara,Zurmi,Partner T,2,accessible

@@ -1,0 +1,311 @@
+cluster_id,psu_id,stratum_id,pop_type,adm1_name,adm2_name,partner,round,reported_status
+idp_NG007004_C01,S061,idp_NG007004,idp,Benue,Buruku,Partner D,2,inaccessible
+idp_NG007004_C02,S061,idp_NG007004,idp,Benue,Buruku,Partner D,2,inaccessible
+idp_NG007004_C03,S061,idp_NG007004,idp,Benue,Buruku,Partner D,2,inaccessible
+idp_NG007004_C04,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C05,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C06,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C07,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C08,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C09,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C10,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C11,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C12,S062,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007004_C13,S063,idp_NG007004,idp,Benue,Buruku,Partner D,2,inaccessible
+idp_NG007004_C14,S063,idp_NG007004,idp,Benue,Buruku,Partner D,2,inaccessible
+idp_NG007004_C15,S064,idp_NG007004,idp,Benue,Buruku,Partner D,2,accessible
+idp_NG007005_C01,S066,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C02,S067,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C03,S067,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C04,S067,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C05,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C06,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C07,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C08,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C09,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C10,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C11,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C12,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C13,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C14,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C15,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007005_C16,S069,idp_NG007005,idp,Benue,Gboko,Partner D,2,accessible
+idp_NG007007_C01,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C02,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C03,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C04,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C05,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C06,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C07,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C08,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C09,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C10,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C11,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007007_C12,S071,idp_NG007007,idp,Benue,Gwer East,Partner D,2,accessible
+idp_NG007009_C01,S073,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007011_C01,S075,idp_NG007011,idp,Benue,Kwande,Partner D,2,accessible
+idp_NG007011_C02,S075,idp_NG007011,idp,Benue,Kwande,Partner D,2,accessible
+idp_NG007011_C03,S075,idp_NG007011,idp,Benue,Kwande,Partner D,2,accessible
+idp_NG007011_C04,S075,idp_NG007011,idp,Benue,Kwande,Partner D,2,accessible
+idp_NG007011_C05,S075,idp_NG007011,idp,Benue,Kwande,Partner D,2,accessible
+idp_NG007011_C06,S075,idp_NG007011,idp,Benue,Kwande,Partner D,2,accessible
+idp_NG007012_C01,S076,idp_NG007012,idp,Benue,Logo,Partner D,2,inaccessible
+idp_NG007020_C01,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C02,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C03,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C04,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C05,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C06,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C07,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C08,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C09,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C10,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C11,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C12,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C13,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007020_C14,S091,idp_NG007020,idp,Benue,Tarka,Partner D,2,accessible
+idp_NG007021_C01,S092,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C02,S092,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C03,S092,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C04,S092,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C05,S092,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C06,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C07,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C08,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C09,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C10,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C11,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C12,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C13,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C14,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007021_C15,S093,idp_NG007021,idp,Benue,Ukum,Partner D,2,accessible
+idp_NG007022_C01,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C02,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C03,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C04,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C05,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C06,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C07,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C08,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C09,S094,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C10,S095,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C11,S095,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C12,S095,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C13,S095,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C14,S095,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007022_C15,S095,idp_NG007022,idp,Benue,Ushongo,Partner D,2,accessible
+idp_NG007023_C01,S097,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C02,S098,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C03,S099,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C04,S099,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C05,S099,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C06,S099,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C07,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C08,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C09,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C10,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C11,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C12,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C13,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C14,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007023_C15,S100,idp_NG007023,idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007004_C01,NG007004_hex23151,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C04,NG007004_hex23630,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C05,NG007004_hex23726,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C06,NG007004_hex23819,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C08,NG007004_hex24010,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C09,NG007004_hex24014,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C10,NG007004_hex24107,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C11,NG007004_hex24110,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C12,NG007004_hex24203,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C13,NG007004_hex24205,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C14,NG007004_hex24301,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C15,NG007004_hex24397,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C16,NG007004_hex24494,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_C17,NG007004_hex24781,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007005_C01,NG007005_hex21517,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C02,NG007005_hex22092,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C03,NG007005_hex22190,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C04,NG007005_hex22379,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C07,NG007005_hex23148,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C08,NG007005_hex23148,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C09,NG007005_hex23150,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,inaccessible
+non_idp_NG007005_C10,NG007005_hex23244,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C11,NG007005_hex23244,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C12,NG007005_hex23244,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C13,NG007005_hex23340,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C14,NG007005_hex23340,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_C16,NG007005_hex23532,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007007_C01,NG007007_hex19884,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C02,NG007007_hex20077,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C03,NG007007_hex20266,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C04,NG007007_hex20458,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C07,NG007007_hex20842,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C08,NG007007_hex20847,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C09,NG007007_hex21036,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C10,NG007007_hex21036,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C11,NG007007_hex21036,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C12,NG007007_hex21133,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_C14,NG007007_hex21519,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,inaccessible
+non_idp_NG007007_C15,NG007007_hex21519,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,inaccessible
+non_idp_NG007007_C16,NG007007_hex21710,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,inaccessible
+non_idp_NG007009_C01,NG007009_hex24394,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C02,NG007009_hex24490,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C03,NG007009_hex24586,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C04,NG007009_hex24779,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C05,NG007009_hex24877,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C06,NG007009_hex24973,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C07,NG007009_hex25070,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C08,NG007009_hex25166,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C09,NG007009_hex25262,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C10,NG007009_hex25358,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C11,NG007009_hex25546,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C12,NG007009_hex25645,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C13,NG007009_hex25837,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C14,NG007009_hex26122,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C15,NG007009_hex26410,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C16,NG007009_hex26699,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007009_C17,NG007009_hex26991,non_idp_NG007009,non_idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007010_C02,NG007010_hex21131,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C04,NG007010_hex21323,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C06,NG007010_hex21609,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C08,NG007010_hex21801,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,inaccessible
+non_idp_NG007010_C09,NG007010_hex21992,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C10,NG007010_hex22184,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C11,NG007010_hex22375,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C12,NG007010_hex22471,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C13,NG007010_hex22567,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C14,NG007010_hex22663,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C15,NG007010_hex22759,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C16,NG007010_hex22854,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_C17,NG007010_hex22951,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007011_C01,NG007011_hex24005,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C02,NG007011_hex24102,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C03,NG007011_hex24197,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C04,NG007011_hex24198,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C05,NG007011_hex24198,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C06,NG007011_hex24295,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C07,NG007011_hex24485,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C08,NG007011_hex24677,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C09,NG007011_hex24773,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,inaccessible
+non_idp_NG007011_C10,NG007011_hex24871,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C11,NG007011_hex25060,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C12,NG007011_hex25064,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C13,NG007011_hex25160,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,inaccessible
+non_idp_NG007011_C14,NG007011_hex25255,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C15,NG007011_hex25350,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007011_C16,NG007011_hex25449,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007012_C01,NG007012_hex23440,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C02,NG007012_hex23538,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C04,NG007012_hex23922,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C05,NG007012_hex24207,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C06,NG007012_hex24210,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C07,NG007012_hex24400,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,inaccessible
+non_idp_NG007012_C08,NG007012_hex24497,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C09,NG007012_hex24590,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C10,NG007012_hex24592,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C11,NG007012_hex24687,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C12,NG007012_hex24782,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C13,NG007012_hex24782,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C14,NG007012_hex24879,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C15,NG007012_hex24974,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C16,NG007012_hex24977,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007012_C17,NG007012_hex25166,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,accessible
+non_idp_NG007020_C01,NG007020_hex22287,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C03,NG007020_hex22385,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C05,NG007020_hex22480,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C06,NG007020_hex22576,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C08,NG007020_hex22671,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C09,NG007020_hex22671,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C10,NG007020_hex22671,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C11,NG007020_hex22672,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C12,NG007020_hex22767,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C13,NG007020_hex22768,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C14,NG007020_hex22769,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,inaccessible
+non_idp_NG007020_C15,NG007020_hex22863,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C16,NG007020_hex22864,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_C17,NG007020_hex22961,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007021_C01,NG007021_hex24978,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C02,NG007021_hex25170,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C03,NG007021_hex25359,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C04,NG007021_hex25456,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C05,NG007021_hex25552,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C06,NG007021_hex25648,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C09,NG007021_hex25746,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C10,NG007021_hex25840,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C11,NG007021_hex25935,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C12,NG007021_hex26031,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C13,NG007021_hex26127,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C14,NG007021_hex26225,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C15,NG007021_hex26321,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C16,NG007021_hex26510,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_C17,NG007021_hex26609,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007022_C01,NG007022_hex22378,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C02,NG007022_hex22761,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C03,NG007022_hex22859,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C04,NG007022_hex23048,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C05,NG007022_hex23051,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C07,NG007022_hex23241,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C08,NG007022_hex23337,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C09,NG007022_hex23432,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C10,NG007022_hex23529,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C11,NG007022_hex23625,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C12,NG007022_hex23912,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C13,NG007022_hex24103,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C14,NG007022_hex24200,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C15,NG007022_hex24297,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C16,NG007022_hex24487,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007022_C17,NG007022_hex24681,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible
+non_idp_NG007023_C01,NG007023_hex22760,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C02,NG007023_hex23045,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C03,NG007023_hex23142,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C04,NG007023_hex23236,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C05,NG007023_hex23240,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C06,NG007023_hex23335,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C07,NG007023_hex23336,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C08,NG007023_hex23429,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C09,NG007023_hex23431,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C10,NG007023_hex23525,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C11,NG007023_hex23528,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C12,NG007023_hex23622,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C13,NG007023_hex23717,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C14,NG007023_hex23719,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C15,NG007023_hex23813,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C16,NG007023_hex23815,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+non_idp_NG007023_C17,NG007023_hex23910,non_idp_NG007023,non_idp,Benue,Vandeikya,Partner D,2,accessible
+idp_NG007009_R1_01,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_02,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_03,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_04,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_05,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_06,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_07,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_08,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_09,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_10,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_11,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_12,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+idp_NG007009_R1_13,S072,idp_NG007009,idp,Benue,Katsina-Ala,Partner D,2,accessible
+non_idp_NG007004_R1_01,NG007004_hex23530,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_R1_02,NG007004_hex24011,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007004_R1_03,NG007004_hex24393,non_idp_NG007004,non_idp,Benue,Buruku,Partner D,2,accessible
+non_idp_NG007005_R1_01,NG007005_hex22189,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_R1_02,NG007005_hex22572,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007005_R1_03,NG007005_hex23342,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,inaccessible
+non_idp_NG007005_R1_04,NG007005_hex23916,non_idp_NG007005,non_idp,Benue,Gboko,Partner D,2,accessible
+non_idp_NG007007_R1_01,NG007007_hex20364,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_R1_02,NG007007_hex20841,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_R1_03,NG007007_hex21324,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,accessible
+non_idp_NG007007_R1_04,NG007007_hex22000,non_idp_NG007007,non_idp,Benue,Gwer East,Partner D,2,inaccessible
+non_idp_NG007010_R1_01,NG007010_hex21225,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_R1_02,NG007010_hex21607,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_R1_03,NG007010_hex22089,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007010_R1_04,NG007010_hex22664,non_idp_NG007010,non_idp,Benue,Konshisha,Partner D,2,accessible
+non_idp_NG007011_R1_01,NG007011_hex24965,non_idp_NG007011,non_idp,Benue,Kwande,Partner D,2,accessible
+non_idp_NG007012_R1_01,NG007012_hex24305,non_idp_NG007012,non_idp,Benue,Logo,Partner D,2,inaccessible
+non_idp_NG007020_R1_01,NG007020_hex22384,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_R1_02,NG007020_hex22577,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007020_R1_03,NG007020_hex22960,non_idp_NG007020,non_idp,Benue,Tarka,Partner D,2,accessible
+non_idp_NG007021_R1_01,NG007021_hex25839,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007021_R1_02,NG007021_hex26704,non_idp_NG007021,non_idp,Benue,Ukum,Partner D,2,accessible
+non_idp_NG007022_R1_01,NG007022_hex23338,non_idp_NG007022,non_idp,Benue,Ushongo,Partner D,2,accessible

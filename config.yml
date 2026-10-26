@@ -1,0 +1,72 @@
+# msna-sampling settings. Paths are relative to the repo root.
+# Everything marked "synthetic" is made up by seeded scripts; it is not real data.
+
+seed: 2026
+
+open_data:
+  boundaries:
+    # HDX COD-AB Nigeria (OSGOF, Ehealth, UNCS), licence CC BY-IGO
+    url: https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/01c65fd9-bd0c-4608-aa1e-2e86bbccf3e5/download/nga_admin_boundaries.shp.zip
+    zip: data/raw/nga_admin_boundaries.shp.zip
+    dir: data/raw/boundaries
+  population:
+    # WorldPop constrained population, Nigeria, 2026 (release R2025A), licence CC BY 4.0.
+    # The 1 km UN-adjusted version (4 MB) is plenty for 5 km hexagons; the 100 m
+    # version (151 MB) is in the same folder under 100m/constrained/.
+    url: https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2026/NGA/v1/1km_ua/constrained/nga_pop_2026_CN_1km_R2025A_UA_v1.tif
+    file: data/raw/nga_pop_2026_CN_1km_R2025A_UA_v1.tif
+
+area:
+  # the 11 states covered by data collection
+  states: [Adamawa, Benue, Borno, Kaduna, Katsina, Kebbi, Nasarawa, Plateau, Sokoto, Yobe, Zamfara]
+  crs: 32632            # WGS 84 / UTM 32N, in metres
+  hex_cellsize_m: 5000  # distance between opposite edges of each hexagon
+  min_hex_households: 5 # hexes with fewer estimated households are left out of the frame
+
+households:
+  persons_per_household: 6.0  # assumption used to turn population into households
+
+sample_size:
+  confidence: 0.90
+  proportion: 0.5
+  margin_of_error: 0.10
+  icc: 0.06
+  cluster_size: 6       # households interviewed per cluster
+  reserves: 6           # reserve households drawn per cluster
+  buffer: 0.10          # extra clusters for attrition and non-response
+
+access:                 # synthetic, never real security data
+  border_buffer_km: 20  # band along the international border left out of the frame
+  n_zones: 45           # randomly placed inaccessible zones
+  zone_radius_km: [8, 40]
+  min_lga_accessible_share: 0.30  # LGAs with less of their households accessible are not surveyed
+
+idp_sites:              # synthetic
+  per_state:
+    Adamawa: 60
+    Benue: 40
+    Borno: 150
+    Kaduna: 25
+    Katsina: 35
+    Kebbi: 15
+    Nasarawa: 20
+    Plateau: 25
+    Sokoto: 25
+    Yobe: 60
+    Zamfara: 35
+  in_camp_share: 0.35   # the rest are dispersed in host communities
+  households_meanlog: 4.6
+  households_sdlog: 1.2
+
+partners:
+  count: 20             # "Partner A" to "Partner T"
+
+resampling:             # synthetic accessibility reports from partners
+  rounds: 2
+  p_inaccessible: [0.08, 0.04]  # share of clusters reported inaccessible, per round
+  p_near_zone_multiplier: 3     # clusters near an inaccessible zone are reported more often
+  near_zone_km: 25
+
+outputs:
+  dir: data/synthetic
+  maps_dir: docs/img

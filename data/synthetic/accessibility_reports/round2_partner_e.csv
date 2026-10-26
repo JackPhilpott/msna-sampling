@@ -1,0 +1,216 @@
+cluster_id,psu_id,stratum_id,pop_type,adm1_name,adm2_name,partner,round,reported_status
+idp_NG008006_C01,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C02,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C03,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C04,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C05,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C06,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C07,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C08,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C09,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C10,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008006_C11,S114,idp_NG008006,idp,Borno,Chibok,Partner E,2,inaccessible
+idp_NG008007_C10,S118,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008007_C11,S118,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008007_C12,S118,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008007_C13,S118,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008007_C14,S118,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008007_C15,S119,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008007_C16,S119,idp_NG008007,idp,Borno,Damboa,Partner E,2,accessible
+idp_NG008009_C01,S122,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C02,S122,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C03,S122,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C04,S122,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C05,S122,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C10,S124,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C11,S124,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C12,S124,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008009_C13,S125,idp_NG008009,idp,Borno,Gubio,Partner E,2,accessible
+idp_NG008012_C10,S135,idp_NG008012,idp,Borno,Hawul,Partner E,2,accessible
+idp_NG008012_C11,S135,idp_NG008012,idp,Borno,Hawul,Partner E,2,accessible
+idp_NG008012_C12,S136,idp_NG008012,idp,Borno,Hawul,Partner E,2,inaccessible
+idp_NG008012_C13,S137,idp_NG008012,idp,Borno,Hawul,Partner E,2,accessible
+idp_NG008012_C14,S138,idp_NG008012,idp,Borno,Hawul,Partner E,2,accessible
+idp_NG008012_C15,S138,idp_NG008012,idp,Borno,Hawul,Partner E,2,accessible
+idp_NG008018_C01,S178,idp_NG008018,idp,Borno,Kwaya Kusar,Partner E,2,accessible
+idp_NG008018_C02,S178,idp_NG008018,idp,Borno,Kwaya Kusar,Partner E,2,accessible
+idp_NG008018_C03,S178,idp_NG008018,idp,Borno,Kwaya Kusar,Partner E,2,accessible
+idp_NG008018_C07,S181,idp_NG008018,idp,Borno,Kwaya Kusar,Partner E,2,accessible
+idp_NG008018_C08,S181,idp_NG008018,idp,Borno,Kwaya Kusar,Partner E,2,accessible
+idp_NG008020_C01,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C02,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C03,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C04,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C05,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C06,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C07,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C08,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C09,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C10,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C11,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008020_C12,S187,idp_NG008020,idp,Borno,Magumeri,Partner E,2,accessible
+idp_NG008027_C01,S247,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C02,S247,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C03,S248,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C04,S248,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C05,S248,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C06,S248,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C07,S249,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C08,S249,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C09,S249,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C10,S249,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C11,S249,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C12,S249,idp_NG008027,idp,Borno,Shani,Partner E,2,accessible
+idp_NG008027_C13,S250,idp_NG008027,idp,Borno,Shani,Partner E,2,inaccessible
+non_idp_NG008004_C01,NG008004_hex34034,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,inaccessible
+non_idp_NG008004_C02,NG008004_hex34034,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,inaccessible
+non_idp_NG008004_C04,NG008004_hex34226,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_C07,NG008004_hex34515,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_C08,NG008004_hex34609,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,inaccessible
+non_idp_NG008004_C11,NG008004_hex34707,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,inaccessible
+non_idp_NG008004_C12,NG008004_hex34802,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_C13,NG008004_hex34898,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_C15,NG008004_hex34994,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,inaccessible
+non_idp_NG008004_C16,NG008004_hex35090,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008006_C01,NG008006_hex38746,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C02,NG008006_hex38937,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C03,NG008006_hex39034,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,inaccessible
+non_idp_NG008006_C04,NG008006_hex39130,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C10,NG008006_hex39512,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C11,NG008006_hex39514,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C12,NG008006_hex39608,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C14,NG008006_hex39800,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C15,NG008006_hex39992,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C16,NG008006_hex39993,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_C17,NG008006_hex40089,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008007_C01,NG008007_hex38748,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_C02,NG008007_hex38940,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_C03,NG008007_hex38941,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,inaccessible
+non_idp_NG008007_C12,NG008007_hex39132,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_C13,NG008007_hex39228,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_C14,NG008007_hex39419,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_C16,NG008007_hex40286,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_C17,NG008007_hex41338,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008009_C01,NG008009_hex37904,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C02,NG008009_hex38097,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C03,NG008009_hex38287,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C04,NG008009_hex38385,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C05,NG008009_hex38482,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C06,NG008009_hex38671,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C07,NG008009_hex38770,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C08,NG008009_hex38958,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C09,NG008009_hex39054,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C10,NG008009_hex39054,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C11,NG008009_hex39058,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C12,NG008009_hex39156,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C13,NG008009_hex39251,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C14,NG008009_hex39347,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C15,NG008009_hex39442,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C16,NG008009_hex39540,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008009_C17,NG008009_hex40016,non_idp_NG008009,non_idp,Borno,Gubio,Partner E,2,accessible
+non_idp_NG008012_C01,NG008012_hex35859,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C02,NG008012_hex36053,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C03,NG008012_hex36149,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C04,NG008012_hex36245,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C05,NG008012_hex36341,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C06,NG008012_hex36437,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C08,NG008012_hex36628,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C09,NG008012_hex36725,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C10,NG008012_hex36917,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C11,NG008012_hex36917,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C12,NG008012_hex37108,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C13,NG008012_hex37205,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C14,NG008012_hex37300,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C15,NG008012_hex37588,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C16,NG008012_hex37684,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008012_C17,NG008012_hex38068,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008018_C01,NG008018_hex34995,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C03,NG008018_hex35187,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C04,NG008018_hex35283,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C05,NG008018_hex35285,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C06,NG008018_hex35285,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C07,NG008018_hex35285,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C08,NG008018_hex35381,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C09,NG008018_hex35475,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C10,NG008018_hex35476,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C11,NG008018_hex35572,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,inaccessible
+non_idp_NG008018_C12,NG008018_hex35573,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C14,NG008018_hex35670,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_C16,NG008018_hex35860,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,inaccessible
+non_idp_NG008020_C01,NG008020_hex37423,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C02,NG008020_hex37805,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C03,NG008020_hex37998,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C04,NG008020_hex38189,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C05,NG008020_hex38380,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C08,NG008020_hex38858,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,inaccessible
+non_idp_NG008020_C09,NG008020_hex38956,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C10,NG008020_hex39051,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C11,NG008020_hex39149,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C12,NG008020_hex39241,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C13,NG008020_hex39338,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C14,NG008020_hex39530,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_C15,NG008020_hex39818,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008023_C01,NG008023_hex37907,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C02,NG008023_hex38003,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C03,NG008023_hex38098,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,inaccessible
+non_idp_NG008023_C04,NG008023_hex38099,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C05,NG008023_hex38195,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C06,NG008023_hex38291,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C07,NG008023_hex38387,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C08,NG008023_hex38388,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C09,NG008023_hex38484,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C10,NG008023_hex38580,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,inaccessible
+non_idp_NG008023_C12,NG008023_hex38868,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C13,NG008023_hex38966,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C14,NG008023_hex39158,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C15,NG008023_hex39446,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C16,NG008023_hex39830,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008023_C17,NG008023_hex40119,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008027_C01,NG008027_hex34993,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C02,NG008027_hex35184,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C03,NG008027_hex35375,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C04,NG008027_hex35471,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C05,NG008027_hex35567,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C06,NG008027_hex35663,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C07,NG008027_hex35664,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C08,NG008027_hex35759,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C09,NG008027_hex35760,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C10,NG008027_hex35857,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C11,NG008027_hex35951,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C12,NG008027_hex36048,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C14,NG008027_hex36145,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C15,NG008027_hex36145,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C16,NG008027_hex36336,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008027_C17,NG008027_hex36626,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
+non_idp_NG008004_R1_01,NG008004_hex34130,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_R1_02,NG008004_hex34417,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_R1_03,NG008004_hex34514,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_R1_04,NG008004_hex34610,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_R1_05,NG008004_hex34801,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008004_R1_06,NG008004_hex34995,non_idp_NG008004,non_idp,Borno,Bayo,Partner E,2,accessible
+non_idp_NG008006_R1_01,NG008006_hex38553,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_R1_02,NG008006_hex38936,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_R1_03,NG008006_hex39128,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_R1_04,NG008006_hex39226,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_R1_05,NG008006_hex39610,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008006_R1_06,NG008006_hex39898,non_idp_NG008006,non_idp,Borno,Chibok,Partner E,2,accessible
+non_idp_NG008007_R1_01,NG008007_hex38844,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,inaccessible
+non_idp_NG008007_R1_02,NG008007_hex39036,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_R1_03,NG008007_hex39227,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_R1_04,NG008007_hex39324,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,inaccessible
+non_idp_NG008007_R1_05,NG008007_hex39421,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,inaccessible
+non_idp_NG008007_R1_06,NG008007_hex39803,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_R1_07,NG008007_hex40475,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_R1_08,NG008007_hex40767,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008007_R1_09,NG008007_hex41434,non_idp_NG008007,non_idp,Borno,Damboa,Partner E,2,accessible
+non_idp_NG008012_R1_01,NG008012_hex36434,non_idp_NG008012,non_idp,Borno,Hawul,Partner E,2,accessible
+non_idp_NG008018_R1_01,NG008018_hex35188,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_R1_02,NG008018_hex35380,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_R1_03,NG008018_hex35667,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008018_R1_04,NG008018_hex36052,non_idp_NG008018,non_idp,Borno,Kwaya Kusar,Partner E,2,accessible
+non_idp_NG008020_R1_01,NG008020_hex37613,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,inaccessible
+non_idp_NG008020_R1_02,NG008020_hex38286,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_R1_03,NG008020_hex38860,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008020_R1_04,NG008020_hex39341,non_idp_NG008020,non_idp,Borno,Magumeri,Partner E,2,accessible
+non_idp_NG008023_R1_01,NG008023_hex39061,non_idp_NG008023,non_idp,Borno,Mobbar,Partner E,2,accessible
+non_idp_NG008027_R1_01,NG008027_hex35762,non_idp_NG008027,non_idp,Borno,Shani,Partner E,2,accessible
