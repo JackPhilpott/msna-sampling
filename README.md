@@ -1,5 +1,7 @@
 # MSNA sampling
 
+[![CI](https://github.com/JackPhilpott/msna-sampling/actions/workflows/ci.yml/badge.svg)](https://github.com/JackPhilpott/msna-sampling/actions/workflows/ci.yml)
+
 Stage 1 of the [MSNA pipeline](https://github.com/JackPhilpott/msna-pipeline): drawing a two-stage
 cluster sample of households for a large humanitarian survey, then redrawing it when places turn
 out to be unreachable.
@@ -110,12 +112,19 @@ from step 3 onwards. The seed is fixed, so every run gives byte-identical output
 seed, the states, the hexagon size, the sample-size parameters, the access layer and the
 resampling rates.
 
-To run the tests:
+To run the linters and tests (lintr isn't in `renv.lock`, so install it once with
+`Rscript -e "renv::install('lintr')"`):
 
 ```bash
+Rscript -e "lintr::lint_dir()"
 Rscript -e "testthat::test_dir('tests/testthat')"
+.venv/bin/ruff check . && .venv/bin/ruff format --check .
 .venv/bin/python -m pytest tests/python
 ```
+
+GitHub Actions runs all four on every push and pull request. There, the checks on the pipeline
+outputs in `test-outputs.R` are skipped, because they need the frame built from the downloaded
+open data.
 
 ## Outputs
 
