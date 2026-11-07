@@ -8,6 +8,7 @@ Inputs: data/synthetic/{clusters_after_resampling,resample_log}.csv,
         data/synthetic/households/*.csv
 Outputs: data/synthetic/partner_workbooks/<partner>.xlsx
 """
+
 import re
 import sys
 import zipfile
@@ -48,7 +49,9 @@ def make_reproducible(path: Path) -> None:
     with zipfile.ZipFile(path, "w") as z:
         for info, data in parts:
             if info.filename == "docProps/core.xml":
-                data = re.sub(rb"(<dcterms:(?:created|modified)[^>]*>)[^<]*", rb"\g<1>2026-01-01T00:00:00Z", data)
+                data = re.sub(
+                    rb"(<dcterms:(?:created|modified)[^>]*>)[^<]*", rb"\g<1>2026-01-01T00:00:00Z", data
+                )
             fixed = zipfile.ZipInfo(info.filename, date_time=(2026, 1, 1, 0, 0, 0))
             fixed.compress_type = zipfile.ZIP_DEFLATED
             fixed.external_attr = info.external_attr
@@ -60,8 +63,9 @@ def main() -> int:
     out = output_dir(cfg)
     clusters = pd.read_csv(out / "clusters_after_resampling.csv")
     log = pd.read_csv(out / "resample_log.csv")
-    households = pd.concat([pd.read_csv(f) for f in sorted((out / "households").glob("*.csv"))],
-                           ignore_index=True)
+    households = pd.concat(
+        [pd.read_csv(f) for f in sorted((out / "households").glob("*.csv"))], ignore_index=True
+    )
     dest = out / "partner_workbooks"
     dest.mkdir(exist_ok=True)
     for old in dest.glob("*.xlsx"):
@@ -71,33 +75,64 @@ def main() -> int:
         active = cl[cl["status"] == "active"]
         hh = households[households["partner"] == partner]
         lg = log[log["partner"] == partner]
-        summary = pd.DataFrame({
-            "Item": ["Partner", "States", "LGAs", "Active clusters", "  of which replacements",
-                     "Households to interview (primary)", "Reserve households",
-                     "Clusters reported inaccessible", "Clusters that could not be replaced (shortfall)"],
-            "Value": [partner, ", ".join(sorted(cl["adm1_name"].unique())), cl["adm2_name"].nunique(),
-                      len(active), int((active["round_added"] > 0).sum()),
-                      int((hh["role"] == "primary").sum()), int((hh["role"] == "reserve").sum()),
-                      int((cl["status"] == "inaccessible").sum()), int(lg["shortfall"].sum())],
-        })
-        visit = active[["cluster_id", "stratum_id", "pop_type", "adm1_name", "adm2_name", "psu_id",
-                        "draw", "lon", "lat"]].sort_values("cluster_id")
-        hh_list = hh[["household_id", "cluster_id", "role", "rank", "adm2_name", "lon", "lat"]] \
-            .sort_values(["cluster_id", "role", "rank"], ascending=[True, False, True])
-        history = cl[cl["status"] == "inaccessible"][["cluster_id", "stratum_id", "adm2_name", "round_removed"]] \
-            .merge(cl[cl["replaces"].notna() & (cl["replaces"] != "")][["replaces", "cluster_id"]]
-                   .rename(columns={"replaces": "cluster_id", "cluster_id": "replaced_by"}),
-                   on="cluster_id", how="left").fillna({"replaced_by": "not replaced (shortfall)"})
+        summary = pd.DataFrame(
+            {
+                "Item": [
+                    "Partner",
+                    "States",
+                    "LGAs",
+                    "Active clusters",
+                    "  of which replacements",
+                    "Households to interview (primary)",
+                    "Reserve households",
+                    "Clusters reported inaccessible",
+                    "Clusters that could not be replaced (shortfall)",
+                ],
+                "Value": [
+                    partner,
+                    ", ".join(sorted(cl["adm1_name"].unique())),
+                    cl["adm2_name"].nunique(),
+                    len(active),
+                    int((active["round_added"] > 0).sum()),
+                    int((hh["role"] == "primary").sum()),
+                    int((hh["role"] == "reserve").sum()),
+                    int((cl["status"] == "inaccessible").sum()),
+                    int(lg["shortfall"].sum()),
+                ],
+            }
+        )
+        visit = active[
+            ["cluster_id", "stratum_id", "pop_type", "adm1_name", "adm2_name", "psu_id", "draw", "lon", "lat"]
+        ].sort_values("cluster_id")
+        hh_list = hh[["household_id", "cluster_id", "role", "rank", "adm2_name", "lon", "lat"]].sort_values(
+            ["cluster_id", "role", "rank"], ascending=[True, False, True]
+        )
+        history = (
+            cl[cl["status"] == "inaccessible"][["cluster_id", "stratum_id", "adm2_name", "round_removed"]]
+            .merge(
+                cl[cl["replaces"].notna() & (cl["replaces"] != "")][["replaces", "cluster_id"]].rename(
+                    columns={"replaces": "cluster_id", "cluster_id": "replaced_by"}
+                ),
+                on="cluster_id",
+                how="left",
+            )
+            .fillna({"replaced_by": "not replaced (shortfall)"})
+        )
 
         path = dest / f"{partner.lower().replace(' ', '_')}.xlsx"
         with pd.ExcelWriter(path, engine="openpyxl") as writer:
             write_sheet(writer, "Summary", summary, f"MSNA sample: {partner}")
             write_sheet(writer, "Clusters", visit, "Clusters to visit")
             write_sheet(writer, "Households", hh_list, "Households: 6 primary and 6 reserve per cluster")
-            write_sheet(writer, "Resampling", history, "Clusters reported inaccessible and their replacements")
+            write_sheet(
+                writer, "Resampling", history, "Clusters reported inaccessible and their replacements"
+            )
         make_reproducible(path)
 
-    print(f"Partner workbooks: {clusters['partner'].nunique()} written to {cfg['outputs']['dir']}/partner_workbooks")
+    print(
+        f"Partner workbooks: {clusters['partner'].nunique()} written to "
+        f"{cfg['outputs']['dir']}/partner_workbooks"
+    )
     return 0
 
 

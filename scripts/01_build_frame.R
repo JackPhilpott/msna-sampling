@@ -107,7 +107,8 @@ psus <- bind_rows(
     mutate(geometry = st_point_on_surface(geometry)),
   sites |> transmute(psu_id = site_id, pop_type = "idp", adm1_name, adm1_pcode, adm2_name,
                      adm2_pcode, size_hh = households, frame_order = seq_len(n()))
-) |> st_as_sf()
+) |>
+  st_as_sf()
 psus$accessible <- lengths(st_intersects(psus, inaccessible)) == 0
 psus$near_zone <- psus$accessible &
   lengths(st_is_within_distance(psus, zones, cfg$resampling$near_zone_km * 1000)) > 0
@@ -160,14 +161,19 @@ frame_out <- psus |>
 write_synthetic(frame_out, "frame_psus.csv", cfg)
 
 site_xy <- st_coordinates(st_transform(sites, 4326))
-write_synthetic(sites |> st_drop_geometry() |>
-                  mutate(lon = round(site_xy[, 1], 4), lat = round(site_xy[, 2], 4)) |>
-                  select(site_id, site_name, category, adm1_name, adm1_pcode, adm2_name, adm2_pcode,
-                         households, lon, lat),
-                "idp_sites_synthetic.csv", cfg)
-write_synthetic(lgas |> select(-x) |> mutate(households = round(households),
-                                             accessible_share = round(accessible_share, 3)),
-                "lgas.csv", cfg)
+write_synthetic(
+  sites |>
+    st_drop_geometry() |>
+    mutate(lon = round(site_xy[, 1], 4), lat = round(site_xy[, 2], 4)) |>
+    select(site_id, site_name, category, adm1_name, adm1_pcode, adm2_name, adm2_pcode, households, lon, lat),
+  "idp_sites_synthetic.csv", cfg
+)
+write_synthetic(
+  lgas |>
+    select(-x) |>
+    mutate(households = round(households), accessible_share = round(accessible_share, 3)),
+  "lgas.csv", cfg
+)
 
 dir.create(here("data", "interim"), showWarnings = FALSE)
 saveRDS(list(adm0 = adm0, adm1 = adm1, adm2 = adm2, pieces = non_idp, sites = sites,

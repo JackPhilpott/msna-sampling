@@ -6,6 +6,7 @@
 Complete files are skipped. Interrupted downloads resume where they stopped,
 which matters on slow or unreliable connections.
 """
+
 import sys
 import time
 import urllib.error
@@ -43,9 +44,11 @@ def download(url: str, dest: Path) -> None:
                     while chunk := r.read(1 << 16):
                         f.write(chunk)
         except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
-            print(f"  attempt {attempt} stopped at {part.stat().st_size / 1e6:.1f} MB ({e}); resuming",
-                  flush=True)
-            time.sleep(min(30, 2 ** attempt))
+            print(
+                f"  attempt {attempt} stopped at {part.stat().st_size / 1e6:.1f} MB ({e}); resuming",
+                flush=True,
+            )
+            time.sleep(min(30, 2**attempt))
             continue
         if part.stat().st_size == expected:
             part.replace(dest)

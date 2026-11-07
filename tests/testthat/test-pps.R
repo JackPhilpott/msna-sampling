@@ -3,8 +3,10 @@ source(here::here("R", "functions.R"))
 
 test_that("the same seed gives the same selection", {
   size <- c(5, 40, 12, 3, 80, 25, 9)
-  set.seed(1); a <- pps_systematic(size, 4)
-  set.seed(1); b <- pps_systematic(size, 4)
+  set.seed(1)
+  a <- pps_systematic(size, 4)
+  set.seed(1)
+  b <- pps_systematic(size, 4)
   expect_identical(a, b)
 })
 

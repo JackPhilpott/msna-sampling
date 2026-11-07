@@ -63,7 +63,8 @@ test_that("every active cluster has 6 primary and 6 reserve households", {
 test_that("replacements stay in the stratum of the cluster they replace", {
   skip_if_not(have_outputs, "run the pipeline first")
   cl <- read_csv(out("clusters_after_resampling.csv"), show_col_types = FALSE)
-  repl <- cl |> filter(!is.na(replaces)) |>
+  repl <- cl |>
+    filter(!is.na(replaces)) |>
     left_join(select(cl, cluster_id, old_stratum = stratum_id), by = c("replaces" = "cluster_id"))
   expect_true(all(repl$stratum_id == repl$old_stratum))
   # a replacement drawn in round r never lands on a PSU reported inaccessible in

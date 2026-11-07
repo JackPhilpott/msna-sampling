@@ -17,7 +17,7 @@ read_config <- function(path = here::here("config.yml")) {
 # proportion, inflated by the design effect of clustering, corrected for a
 # finite population, plus a buffer for attrition, then rounded up to whole
 # clusters. `N_hh` is the stratum's estimated number of households.
-cluster_sample_size <- function(N_hh, confidence = 0.90, proportion = 0.5,
+cluster_sample_size <- function(N_hh, confidence = 0.90, proportion = 0.5, # nolint: object_name_linter.
                                 margin_of_error = 0.10, icc = 0.06,
                                 cluster_size = 6, buffer = 0.10) {
   z <- qnorm(1 - (1 - confidence) / 2)
