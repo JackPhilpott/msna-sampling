@@ -7,10 +7,11 @@ cluster sample of households for a large humanitarian survey, then redrawing it 
 out to be unreachable.
 
 This is a public, runnable version of the sampling I built for the 2026 northern Nigeria
-Multi-Sector Needs Assessment (MSNA). The real survey covers 32,000 households across 11 states and
-176 local government areas (LGAs). It runs with 20+ partner organisations, at up to 1,000
-submissions a day. Field teams cannot always reach every selected cluster, so the sample has to be
-redrawn while data collection runs, without breaking the design. This repo runs the same design
+Multi-Sector Needs Assessment (MSNA). The 2026 northern Nigeria MSNA collected 30,544 household
+interviews across 11 states and 170 local government areas (LGAs), with 22 partner organisations
+and more than 1,000 submissions a day at peak. 27,333 were kept after cleaning. Field teams could
+not always reach every selected cluster, so the sample had to be redrawn while data collection
+ran, without breaking the design. This repo runs the same design
 from start to end, on open population data with a synthetic access layer and synthetic partners.
 
 <picture>
